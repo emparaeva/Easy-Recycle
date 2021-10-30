@@ -1,4 +1,4 @@
-# "Easy Recycle" Telegram Bot
+# Easy Recycle project
 
 https://t.me/CleanSanBot
 
