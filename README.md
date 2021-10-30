@@ -44,7 +44,7 @@ https://t.me/CleanSanBot
 ## Способ проверки работоспособности кода:
 1) Установить все библиотеки из requirements.txt (for windows - pip install - r requirements.txt)
 2) В bot/api/ создать папку database
-3) Из [Googve drive](https://drive.google.com/drive/folders/1_K7dKHxCFKUMlBCmlu7Rq7LuF9AnW5LM?usp=sharing) скачать датасет и поместить в database. Веса поместить в папку bot/api/core/darknet-master/
+3) В [Google drive](https://drive.google.com/drive/folders/1_K7dKHxCFKUMlBCmlu7Rq7LuF9AnW5LM?usp=sharing) скачать датасет и поместить в database. Веса поместить в папку bot/api/core/darknet-master/
 4) По примеру файла .env.dist создать в корневой папке файл .env с TOKEN_TELEGRAM и ключевыми словами с кодами
 5) Запустить скрипт bot/_bot.py
 ## Авторы:
